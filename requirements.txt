@@ -1,0 +1,11 @@
+yt-dlp
+pydub
+pygraphviz
+transformers
+whisper
+streamlit
+Pillow
+openai
+anthropic
+subprocess
+markmap-cli
