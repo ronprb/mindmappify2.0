@@ -2,10 +2,8 @@ yt-dlp
 pydub
 pygraphviz
 transformers
-whisper
+openai-whisper
 streamlit
 Pillow
 openai
 anthropic
-subprocess
-markmap-cli
