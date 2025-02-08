@@ -9,8 +9,6 @@ from PIL import Image
 import time
 import subprocess
 from openai import OpenAI
-import anthropic
-
 
 # Function to clear previous files
 def clear_previous_files():
